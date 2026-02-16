@@ -1,3 +1,7 @@
 bonjour je suis BASMA
+<<<<<<< HEAD
 test
 test-etape8/9
+=======
+testModif branche develop
+>>>>>>> develop
